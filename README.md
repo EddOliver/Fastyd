@@ -29,28 +29,50 @@ With these we can solve more than 80% of the problems related to Checking-out an
 
 While at the same time innovating on the fintech sector with our expertise on Web3 and decentralized computing. 
 
-
-
-
 # System's Architecture
+
+<img src="https://i.ibb.co/vmf1MfK/scheme-drawio-4.png">
+
+- The main services we are using is Rapyd, ChainLink, Moralis, IPFS and Polygon.
+- Rapyd Services:
+  - Rapyd Wallet: 
+    - Creacion de company y personal wallets para las tranferencias en el checkout.
+    - Obtener las transacciones y balances por cuenta para desplegarlas en la app.
+    - Creacion de la pagina de verificacion de identidad para cumplir el KYC.
+  - Rapyd Collect:
+    - Creacion de una pagina de checkout para poder transferir dinero de la ewallet a una tarjeta externa.
+  - Rapys Issuing:
+    - Poder obtener una tarjeta virtual para acceder a nuestros fondos de ewallet.
+- Polygon is our main blockchain, where thanks to its low fees we can provide the following services.
+  - Decentralized Chat.
+  - Transfer tokens and NFT's
+ - Chainlink, thanks to its data feeds, provides us with the possibility of consuming them directly within a smart contract, in this case we use a contract deployed in Polygon Mainnet as a bridge to provide our dapp with the prices of BTC, BNB, USDC, MATIC, LINK and ETH.
+- Moralis provides us with a very efficient API to obtain data from our NFT's and Token balances in our account.
+- The Swap is the only section where we coordinate Rapyd and Polygon services to be able to exchange MATIC to Fiat money.
 
 # Solution
 
 This is the Demo of our solution.
 
+Marketplace URL: https://main.d16nkc9yw8s622.amplifyapp.com/
+
+Checkout test Credentials:
+- User: hexagon@chainlink.com
+- Pass: toortoor
+
 We will begin by showing you Rapyd’s backend and the balance we have at that moment on it.
 
 We will demonstrate our improved Checkout via an old marketplace we designed a couple months ago.
 
-<img src="">
+<img src="https://i.ibb.co/wg33ScF/image.png">
 
 Here go through a  normal buying process in which you fill First the shipping information. After that we go straight away to choosing a Payment method which is way faster than most other options currently in the market. Let’s choose Fastyd. 
 
-<img src="">
+<img src="https://i.ibb.co/tB0Mzg3/image.png">
 
 As you can see a prompt opens, we log in and we can choose two forms of payment, which is Fiat, USD or credit and debit card in this case, or Crypto payments with ETH or MATIC. Let’s pay with US dollars at this moment through our Rapyd ewallet. 
 
-<img src="">
+<img src="https://i.ibb.co/Jjxd9ZX/image.png">
 
 Immediately we get confirmation and the details for it. And we can also get to see how that balance changes on our Rapyd backend. This offers a much faster, elegant and simpler checkout experience for the buyer.
 
