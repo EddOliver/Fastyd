@@ -102,7 +102,9 @@ For now we think we have a great improvement over incumbents in the checkout spa
 # References
 
 https://baymard.com/lists/cart-abandonment-rate
+
 https://www.statista.com/statistics/477804/online-shopping-cart-abandonment-rate-worldwide/
+
 https://www.drip.com/blog/cart-abandonment-statistics
 
 
