@@ -118,7 +118,7 @@ This is now a Real demo of our solution.
 
 You can now use our Application without any problem on a real cell phone, as you can see here we are already using it and running it with all its functions and features active. On the phone you can see our balance which is X dollars, now we will be buying an article on the same site as the first demo and show you how the experience feels and how everything is shown at the end with the new balance on the Fastyd app. 
 
-
+<img src="./Gif/real.gif">
 
 # Whats Next for Fastyd
 
