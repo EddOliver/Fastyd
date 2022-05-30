@@ -60,6 +60,8 @@ Checkout test Credentials:
 - User: hexagon@chainlink.com
 - Pass: toortoor
 
+Code: https://github.com/EddOliver/Fastyd/tree/main/Marketplace
+
 We will begin by showing you Rapyd’s backend and the balance we have at that moment on it.
 
 We will demonstrate our improved Checkout via an old marketplace we designed a couple months ago.
@@ -77,6 +79,14 @@ As you can see a prompt opens, we log in and we can choose two forms of payment,
 Immediately we get confirmation and the details for it. And we can also get to see how that balance changes on our Rapyd backend. This offers a much faster, elegant and simpler checkout experience for the buyer.
 
 # Application
+
+App URL: https://main.drpx9dtlv6e9m.amplifyapp.com/
+
+Checkout test Credentials:
+- User: hexagon@chainlink.com
+- Pass: toortoor
+
+Code: https://github.com/EddOliver/Fastyd/tree/main/FastydApp
 
 That was on the cash out portion but we have a mobile application that you use to speed up every process. Let’s see how we get to that fast checkout. 
 
