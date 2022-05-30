@@ -22,7 +22,7 @@ But, we can Tackle for our solution several of the most important ones such as:
 - The requisite of creating an account (2)
 - Trust issues with credit card information (4)
 - Calculating payment costs (6)
-- And increasing payment methods (el penultimo)
+- And increasing payment methods (penultimate one)
 
 With these we can solve more than 80% of the problems related to Checking-out and increase the conversion rate with a better checkout flow.
 
