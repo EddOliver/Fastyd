@@ -1,5 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=SDcjMM8oC0Y)
 
+
+# Fastyd
+Fastyd is a Superapp that greatly improves Check-out processes on e-commerce employing Rapyd’s Checkout toolkit and APIs, while incorporating Web3 and blockchain capabilities and transactions.
+
 # IMPORTANT!
 
 ### App URL: https://main.drpx9dtlv6e9m.amplifyapp.com/
@@ -18,11 +22,6 @@ Checkout test Credentials:
 
 Code: https://github.com/EddOliver/Fastyd/tree/main/Marketplace
 
-
-
-
-# Fastyd
-Fastyd is a Superapp that greatly improves Check-out processes on e-commerce employing Rapyd’s Checkout toolkit and APIs, while incorporating Web3 and blockchain capabilities and transactions.
 
 
 # Introduction and Problem
