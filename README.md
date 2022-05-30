@@ -12,9 +12,9 @@ Near to $260 billion worth of lost orders which are recoverable solely through a
 
 Regarding the problem we found after some research that these are the most important reasons for checkout and cart abandonment.
 
-<img src="https://baymard.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcart-abandonment-stats.95d62027.jpeg&w=3840&q=75">
-
 There are several reasons that we cannot tackle directly because they depend more directly on the seller such as delivery times, website crashes and Return policies. 
+
+<img src="https://baymard.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcart-abandonment-stats.95d62027.jpeg&w=3840&q=75">
 
 But, we can Tackle for our solution several of the most important ones such as: 
 
