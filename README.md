@@ -8,6 +8,10 @@ The main problem that we will be addressing according to the challenge is as fol
 We find that close to 70% of shopping carts in online businesses are abandoned leaving 
 Near to $260 billion worth of lost orders which are recoverable solely through a better checkout flow & design. Which would translate in a 35.26% increase in conversion rates for online businesses.
 
+<img src="https://i.ibb.co/KLyGqDb/shopincartab.png">
+
+
+
 # System's Architecture
 
 # Solution
