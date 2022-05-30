@@ -4,7 +4,7 @@
 # Fastyd
 Fastyd is a Superapp that greatly improves Check-out processes on e-commerce employing Rapyd’s Checkout toolkit and APIs, while incorporating Web3 and blockchain capabilities and transactions.
 
-# IMPORTANT!
+# IMPORTANT! (HEre tech judges)
 
 ### App URL: https://main.drpx9dtlv6e9m.amplifyapp.com/
 
@@ -21,6 +21,9 @@ Checkout test Credentials:
 - Pass: toortoor
 
 Code: https://github.com/EddOliver/Fastyd/tree/main/Marketplace
+
+
+Video Demo: https://www.youtube.com/watch?v=SDcjMM8oC0Y
 
 
 
