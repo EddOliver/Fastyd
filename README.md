@@ -1,4 +1,13 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=SDcjMM8oC0Y)
+The main services we are using is Rapyd, ChainLink, Moralis, IPFS and Polygon.
+Rapyd Services:
+Rapyd Wallet:
+Creation of company and personal wallets for transfers at checkout.
+Obtain transactions and balances by account to display them in the app.
+Creation of the identity verification page to comply with the KYC.
+Rapyd Collect:
+Creation of a checkout page to be able to transfer money from the ewallet to an external card.
+Rapyd's Issuing:
+Being able to obtain a virtual card to access our ewallet funds.[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=SDcjMM8oC0Y)
 
 
 # Fastyd
@@ -58,16 +67,16 @@ While at the same time innovating on the fintech sector with our expertise on We
 
 <img src="https://i.ibb.co/vmf1MfK/scheme-drawio-4.png">
 
-- The main services we are using is Rapyd, ChainLink, Moralis, IPFS and Polygon.
-- Rapyd Services:
-  - Rapyd Wallet: 
-    - Creacion de company y personal wallets para las tranferencias en el checkout.
-    - Obtener las transacciones y balances por cuenta para desplegarlas en la app.
-    - Creacion de la pagina de verificacion de identidad para cumplir el KYC.
-  - Rapyd Collect:
-    - Creacion de una pagina de checkout para poder transferir dinero de la ewallet a una tarjeta externa.
-  - Rapys Issuing:
-    - Poder obtener una tarjeta virtual para acceder a nuestros fondos de ewallet.
+The main services we are using is Rapyd, ChainLink, Moralis, IPFS and Polygon.
+Rapyd Services:
+- Rapyd Wallet:
+  - Creation of company and personal wallets for transfers at checkout.
+  - Obtain transactions and balances by account to display them in the app.
+  - Creation of the identity verification page to comply with the KYC.
+- Rapyd Collect:
+  - Creation of a checkout page to be able to transfer money from the ewallet to an external card.
+  - Rapyd's Issuing:
+  - Being able to obtain a virtual card to access our ewallet funds.
 - Polygon is our main blockchain, where thanks to its low fees we can provide the following services.
   - Decentralized Chat.
   - Transfer tokens and NFT's
