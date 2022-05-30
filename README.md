@@ -10,6 +10,26 @@ Near to $260 billion worth of lost orders which are recoverable solely through a
 
 <img src="https://i.ibb.co/KLyGqDb/shopincartab.png">
 
+Regarding the problem we found after some research that these are the most important reasons for checkout and cart abandonment.
+
+<img src="https://baymard.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcart-abandonment-stats.95d62027.jpeg&w=3840&q=75">
+
+There are several reasons that we cannot tackle directly because they depend more directly on the seller such as delivery times, website crashes and Return policies. 
+
+But, we can Tackle for our solution several of the most important ones such as: 
+
+- Reducing extra costs (1)
+- The requisite of creating an account (2)
+- Trust issues with credit card information (4)
+- Calculating payment costs (6)
+- And increasing payment methods (el penultimo)
+
+With these we can solve more than 80% of the problems related to Checking-out and increase the conversion rate with a better checkout flow.
+
+
+While at the same time innovating on the fintech sector with our expertise on Web3 and decentralized computing. 
+
+
 
 
 # System's Architecture
