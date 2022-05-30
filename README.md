@@ -76,15 +76,14 @@ As you can see a prompt opens, we log in and we can choose two forms of payment,
 
 Immediately we get confirmation and the details for it. And we can also get to see how that balance changes on our Rapyd backend. This offers a much faster, elegant and simpler checkout experience for the buyer.
 
-
 # Application
 
-
 That was on the cash out portion but we have a mobile application that you use to speed up every process. Let’s see how we get to that fast checkout. 
+
 In the following image you can see...
 For our traditional cash out Ramp and KYC services we are using Rapyd’s Wallet identity Verification Object. Additionally we used the Wallet-Wallet Transaction Object, Rapyd Collect and Rapyd Issuing APIs for the other services we provide.
 
-<img src="">
+<img src="https://i.ibb.co/zFy6Jsx/screens1.png">
 
 Once inside the platform you will see our Chainlink-based price feed as the first screen (third phone on the image above).
 
@@ -96,6 +95,7 @@ Finally, in the last button you can complete the KYC through Rapyd  to verify yo
 ## Swap functionality
 
 In the swap section we can make an exchange between our Fiat account and our crypto account, we only have to select if we want to convert Crypto to Dollar or Dollar to Crypto, in this case we will convert Crypto to Dollar. Once the transaction is signed and the operation is finished in the home section we will be able to see how we have already received our money in our Fiat account and deducted it from our Crypto account.
+
 
 
 ## Cash out
