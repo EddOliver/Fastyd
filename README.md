@@ -67,7 +67,7 @@ At the same time we integrate a chat section, where we can talk to any address o
 
 This is now a Real demo of our solution.
 
-You can now use our Application without any problem on a real cell phone, as you can see here we are already using it and running it with all its functions and features active. On the phone you can see our balance which is X dollars, now we will be buying an article on the same site as the first demo and show you how the ## Real Showcasecheckout experience feels and how everything is shown at the end with the new balance on the Fastyd app. 
+You can now use our Application without any problem on a real cell phone, as you can see here we are already using it and running it with all its functions and features active. On the phone you can see our balance which is X dollars, now we will be buying an article on the same site as the first demo and show you how the experience feels and how everything is shown at the end with the new balance on the Fastyd app. 
 
 
 # Whats Next for Fastyd
