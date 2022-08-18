@@ -1,13 +1,4 @@
-The main services we are using is Rapyd, ChainLink, Moralis, IPFS and Polygon.
-Rapyd Services:
-Rapyd Wallet:
-Creation of company and personal wallets for transfers at checkout.
-Obtain transactions and balances by account to display them in the app.
-Creation of the identity verification page to comply with the KYC.
-Rapyd Collect:
-Creation of a checkout page to be able to transfer money from the ewallet to an external card.
-Rapyd's Issuing:
-Being able to obtain a virtual card to access our ewallet funds.[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=SDcjMM8oC0Y)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=SDcjMM8oC0Y)
 
 
 # Fastyd
